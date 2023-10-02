@@ -1,0 +1,44 @@
+Sanjith E S
+Aspiring Front-End Developer
+H-101,Hansa Courtyard ,Thiruvttiyur, Chennai, Tamil Nadu, India, 600019
+
+9344130183 |
+sanjithesacc1@gmail.com
+
+Education
+
+B.Tech in Information Technology November 2021 - June 2025Velammal Engineering College, Chennai
+
+CGPA : 7.33%
+
+XII STD in Computer Science June 2020 - April 2021Revoor Padmanabha Chetty Matriculation Higher Secondary School, Chennai
+
+Winning Bronze Medal In State Boxing Match
+
+State Board- Grade : 75.3%
+
+X April 2018 - April 2019Sri Ram Dayal Khemka Vivekananda Vidyalaya Senior Secondary School, Chennai
+
+CBSE - Grade : 68.6%
+
+Key Skills
+
+- HTML
+- CSS
+- JAVASCRIPT
+- PYTHON
+- REACT
+
+Languages
+
+- English
+- Tamil
+
+Interests
+
+I am deeply passionate about web development and am excited about the opportunities it offers to create dynamic and user-centric online experiences. From designing visually appealing websites to crafting seamless user interfaces, I am constantly driven to enhance my skills and stay updated with the latest technologies.
+
+Software
+
+- Visual Studio Code
+- Excel
